@@ -25,7 +25,7 @@ const Text = styled('span', {
 })
 
 const Button = styled('button', {
-	fontSize: '6vw',
+	fontSize: '5vw',
 	fontFamily: 'sans-serif',
 	textTransform: 'uppercase',
 	border: '0.17em solid black',

@@ -19,7 +19,6 @@ const Wrapper = styled('div', {
 
 const Text = styled('span', {
 	fontFamily: 'sans-serif',
-	userSelect: 'none',
 	textAlign: 'center',
 	fontSize: '10vw'
 })
